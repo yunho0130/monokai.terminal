@@ -1,5 +1,5 @@
 # For Korean
-맥OS 터미널에서 스킨 테마를 SublimeText와 유사하게 바꿔주는 테마 입니다. @yunho0130
+맥OS 터미널에서 스킨 테마를 SublimeText와 유사하게 바꿔주는 테마 입니다. [@Yunho0130](https://github.com/yunho0130)
 
 # monokai.terminal
 The Monokai color scheme for OS X Terminal and iTerm
